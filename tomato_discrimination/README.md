@@ -54,20 +54,8 @@ All "tomato" and "pomodoro" (renamed to "tomato") appear at the end of the queue
 
 ### Solution 💡
 
-You can find the solution code [here](./tomato_discrimination.go).
+🧠 Solution code: [tomato_discrimination.go](./tomato_discrimination.go)
 
-1. First, we define a helper function that checks whether a vegetable is `"tomato"` or `"pomodoro"`.
+🧪 Tests: [tomato_discrimination_test.go](./tomato_discrimination_test.go)
 
-2. The main function modifies the input slice in-place.
-    We use a `writeInd` pointer to track the position where the next non-tomato vegetable should be written.
-    We iterate through the slice:
-    
-    If the current element is a tomato (or pomodoro), we skip it.
-
-    If it's a non-tomato vegetable, we copy it to `vegetables[writeInd]` and increment `writeInd`.
-
-    After this loop, all non-tomato vegetables are in their correct positions, in the original order.
-
-3. Next, we fill the remaining part of the slice (starting from `writeInd`) with `"tomato"` — because all `"pomodoro"` should be renamed to `"tomato"`.
-
-[Here](./tomato_discrimination_test.go) you can find tests.
+📖 Full explanation: Blog post on [Dev.to](https://dev.to/asparagos/go-coding-with-asparagos-tomato-discrimination-in-the-soup-queue-4i7)

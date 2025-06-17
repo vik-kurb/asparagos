@@ -65,22 +65,8 @@ A slice of strings — each string represents a vegetable.
 
 ### Solution 💡
 
-You can find the solution code [here](./twin_salads.go).
+🧠 Solution code: [twin_salads.go](./twin_salads.go)
 
-1. First of all, if the input has 0 or 1 elements, the salads are automatically identical, and there's nothing else to check.
+🧪 Tests: [twin_salads_test.go](./twin_salads_test.go)
 
-2. We can make twin salads if the first vegetable is the same as the last, the second is the same as the second to last, and so on.
-
-    We'll use two indices `leftInd` and `rightInd`.
-    `leftInd` points to the vegetable that the first chef should pick up next.
-    `rightInd` points to the vegetable that the second chef should pick up next.
-
-    The first chef goes from left to right, so `leftInd` will be increased at each iteration. The second chef goes from right to left, so `rightInd` will be decreased.
-
-3. At each iteration we check if the vegetables are equal. We use `strings.ToLower()`, because case doesn't matter.
-
-    If the left and right vegetables are not equal, it means we can't make identical salads.
-
-    And if we've checked all the pairs without finding any differences, we can be sure that salads are twins.
-
-[Here](./twin_salads_test.go) you can find tests.
+📖 Full explanation: Blog post on [Dev.to](https://dev.to/asparagos/go-coding-with-asparagos-can-two-chefs-make-twin-salads-4de8)

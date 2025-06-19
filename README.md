@@ -16,3 +16,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍅 [Tomato Discrimination](./tomato_discrimination/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-tomato-discrimination-in-the-soup-queue-4i7)
 
   Tomatoes are now fruits. Can the soup survive?
+
+- 🫑 [Vitamin Deficiency](./vitamin_deficiency/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-can-two-veggies-cure-a-vitamin-crisis-56jl)
+
+  No fun. Severe vitamin C deficiency!

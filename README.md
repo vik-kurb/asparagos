@@ -20,3 +20,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🫑 [Vitamin Deficiency](./vitamin_deficiency/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-can-two-veggies-cure-a-vitamin-crisis-56jl)
 
   No fun. Severe vitamin C deficiency!
+
+- 🍍 [Fruit Sabotage](./fruit_sabotage/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-can-we-find-the-king-in-o1-space-4fd4)
+
+  Fruits united. Vegetables confused. Long live the King?

@@ -28,3 +28,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍊 [Orange Seeds](./orange_seeds/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-can-oranges-sow-the-seeds-of-discord-in-linear-time-1643)
 
   Can oranges sow the seeds of discord in linear time?
+
+- 🌰 [Walnuts Take the IQ Test](./walnut_iq/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-walnuts-take-the-iq-test-8dl)
+
+  Are walnuts the smartest?

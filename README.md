@@ -32,3 +32,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🌰 [Walnuts Take the IQ Test](./walnut_iq/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-walnuts-take-the-iq-test-8dl)
 
   Are walnuts the smartest?
+
+- 🍓 [Strawberry fever](./strawberry_fever/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-are-strawberries-in-danger-nab)
+
+  One boy. One obsession. Can the city’s strawberries survive?

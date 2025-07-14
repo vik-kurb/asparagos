@@ -36,3 +36,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍓 [Strawberry fever](./strawberry_fever/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-are-strawberries-in-danger-nab)
 
   One boy. One obsession. Can the city’s strawberries survive?
+
+- 🥔 [Potato Bugs](./potato_bugs/README.md) | 📖 [Blog post](https://dev.to/asparagos/asparagos-vs-potato-bugs-can-he-detect-the-cycle-in-o1-space-1dll)
+
+  Potato vs Bugs. Can FIFO save the harvest?

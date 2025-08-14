@@ -40,3 +40,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🥔 [Potato Bugs](./potato_bugs/README.md) | 📖 [Blog post](https://dev.to/asparagos/asparagos-vs-potato-bugs-can-he-detect-the-cycle-in-o1-space-1dll)
 
   Potato vs Bugs. Can FIFO save the harvest?
+
+- 🍅 [The World's Biggest Gazpacho](./worlds_biggest_gazpacho/README.md) | 📖 [Blog post]()
+
+  How Much Gazpacho Can We Make with Dynamic Programming?

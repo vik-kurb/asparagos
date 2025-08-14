@@ -44,3 +44,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍅 [The World's Biggest Gazpacho](./worlds_biggest_gazpacho/README.md) | 📖 [Blog post]()
 
   How Much Gazpacho Can We Make with Dynamic Programming?
+
+- 🥗 [Salsa Festival](./salsa_festival/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-will-graph-cycles-spoil-the-salsa-festival-2eod)
+
+  Salsa Festival! All vegetables are invited! Can cycles ruin the fun?

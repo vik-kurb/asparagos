@@ -48,3 +48,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🥗 [Salsa Festival](./salsa_festival/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-will-graph-cycles-spoil-the-salsa-festival-2eod)
 
   Salsa Festival! All vegetables are invited! Can cycles ruin the fun?
+
+- 🌻 [Sunflower Speaking Club](./sunflower_speaking_club/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
+
+  Sunflowers on a mission: better English in linear time?

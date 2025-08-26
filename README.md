@@ -52,3 +52,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🌻 [Sunflower Speaking Club](./sunflower_speaking_club/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-sunflowers-and-the-speaking-challenge-2gd6)
 
   Sunflowers on a mission: better English in linear time?
+
+- 🥜 [The Smartest Peanut in the Neighborhood](./smartest_peanut/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
+
+  Peanuts feed their ego in linear time

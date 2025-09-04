@@ -56,3 +56,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🥜 [The Smartest Peanut in the Neighborhood](./smartest_peanut/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-the-smartest-peanut-in-the-neighborhood-3o92)
 
   Peanuts feed their ego in linear time
+
+- 🥥 [Coconut Race 🥥](./coconut_race/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-coconuts-never-roll-alone-8f8)
+
+  What happens when coconuts start racing?

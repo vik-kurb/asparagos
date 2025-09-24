@@ -57,6 +57,10 @@ You can find all blog posts [here](https://dev.to/asparagos).
 
   Peanuts feed their ego in linear time
 
-- 🥥 [Coconut Race 🥥](./coconut_race/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-coconuts-never-roll-alone-8f8)
+- 🥥 [Coconut Race](./coconut_race/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-coconuts-never-roll-alone-8f8)
 
   What happens when coconuts start racing?
+
+- 🍎 [Apple Escape](./apple_escape/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-saving-apples-from-pies-58p8)
+
+  Can a single train save apples from the pie threat?

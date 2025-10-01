@@ -64,3 +64,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍎 [Apple Escape](./apple_escape/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-saving-apples-from-pies-58p8)
 
   Can a single train save apples from the pie threat?
+
+- 🍄 [Mushroom Soup](./mushroom_soup/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-mushroom-soup-for-everyone-55a3)
+
+  Everyone deserves creamy mushroom soup!

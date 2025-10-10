@@ -68,3 +68,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍄 [Mushroom Soup](./mushroom_soup/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-mushroom-soup-for-everyone-55a3)
 
   Everyone deserves creamy mushroom soup!
+
+- 🍋 [Lemon Squeezy](./lemon_squeezy/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-lemon-squeezy-dynamic-easy-12lc)
+
+  When life gives you lemons, make a quiz team!

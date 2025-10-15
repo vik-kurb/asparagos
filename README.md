@@ -72,3 +72,7 @@ You can find all blog posts [here](https://dev.to/asparagos).
 - 🍋 [Lemon Squeezy](./lemon_squeezy/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-lemon-squeezy-dynamic-easy-12lc)
 
   When life gives you lemons, make a quiz team!
+
+- 🍉 [Watermelon Football](./watermelon_football/README.md) | 📖 [Blog post](https://dev.to/asparagos/go-coding-with-asparagos-fair-play-in-watermelon-football-55io)
+
+  Who becomes the referee in the Great Watermelon Football Final?
